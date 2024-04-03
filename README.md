@@ -19,17 +19,27 @@ tests: Stores unit tests and validation scripts used to ensure the accuracy and 
 # Skills:
 ## Business/Problem Solving:
 Market analysis
+
 Strategic decision-making
+
 Competitive intelligence
+
 ## Analytics:
 Descriptive analytics
+
 Diagnostic analytics
+
 Predictive modeling
+
 Prescriptive analytics
+
 ## Technology:
 Data manipulation (Python, SQL)
+
 Data visualization (Matplotlib, Seaborn)
+
 Machine learning (scikit-learn)
+
 Dashboard development (Tableau)
 
 # Analytics Maturity Scale:
