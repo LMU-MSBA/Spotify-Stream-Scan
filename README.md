@@ -5,10 +5,15 @@ We are assisting Spotify talent managers in determining the viability and potent
 # Project Structure:
 
 code: Contains all the code files used for data analysis, modeling, and visualization.
+
 dashboards: Stores interactive dashboards and visualizations showcasing insights derived from the data.
+
 data: Contains datasets used for analysis, including artist characteristics, genre trends, and streaming metrics.
+
 docs: Stores project documentation, including README files, data dictionaries, and analysis reports.
+
 presentations: Contains presentation slides prepared for senior management and stakeholders, showcasing key findings and recommendations.
+
 tests: Stores unit tests and validation scripts used to ensure the accuracy and reliability of the analysis.
 
 # Skills:
@@ -23,9 +28,9 @@ Predictive modeling
 Prescriptive analytics
 ## Technology:
 Data manipulation (Python, SQL)
-Data visualization (Matplotlib, Seaborn, Tableau)
-Machine learning (scikit-learn, TensorFlow)
-Dashboard development (Plotly Dash, Streamlit)
+Data visualization (Matplotlib, Seaborn)
+Machine learning (scikit-learn)
+Dashboard development (Tableau)
 
 # Analytics Maturity Scale:
 **Aspire**: In this phase, we aspire to understand the characteristics of popular artists in the genre and identify key factors driving their success. Deliverables include descriptive analytics reports on genre trends and artist characteristics.
