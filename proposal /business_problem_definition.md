@@ -48,6 +48,7 @@ The route forward, where data not only supports decisions but also influences th
 Assumption
 * Determining popularity threshold
 * Determining other characteristics that able to predict popularity
+
 Constraint
 * Limited time, took a while to extract the data
 
