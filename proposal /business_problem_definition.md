@@ -36,7 +36,7 @@ The route forward, where data not only supports decisions but also influences th
 | Clarin Sunarjo    | Project Manager   |
 
 ### Data
-* Historical data gathered from Spotify Web API involving variables like Artist Information, Genres
+* Historical data gathered from Spotify Web API involving variables like Artist Information, Genres, and Album Information
 ### Computing Resources
 * Local Computer
 ### Software
