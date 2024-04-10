@@ -42,7 +42,7 @@ The route forward, where data not only supports decisions but also influences th
 ### Software
 * Data Manipulation: Python and SQL
 * Visualization : Tableau
-* Data Storage : LMU Build
+* Cloud Computing : AWS
 
 ## Assumptions and Constraints
 Assumption
@@ -104,7 +104,7 @@ Contingencies
 
 # Produce Project Plan
 ## Initial Assessment of Tools (Technology) and Techniques (Analytics)
-* Data Storage : LMU BUILD
+* Cloud Computing : AWS
 * Data Preprocessing : SQL
 * Data Manipulation : Python
 * Data Visualization: Tableau
