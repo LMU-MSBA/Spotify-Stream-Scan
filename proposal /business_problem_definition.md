@@ -10,7 +10,7 @@ The Associate Data Scientist is important in this situation because they provide
   * D03: Improved identification of opportunities : Analyze what contents is considered as popular based on historical data
 
 ## Business Area
-* Artist and Repertoire Department: A division that is responsible for scouting and developing musical talent and identifying new artists
+* Artist and Label Department: A division that is responsible for scouting and developing musical talent and identifying new artists
 
   * During this stage, Spotify's A&R division aims to lead the way in utilizing data analytics to find and evaluate up-and-coming musicians. We acknowledge the potential importance of our extensive data archives in shaping the direction of music curation at this exploratory moment. The Associate Data Scientist's job is to anticipate how this data can evolve, laying the groundwork for a data-driven approach to content planning and artist development. Through a methodical mapping of listener preferences and music trends by genre, the Associate Data Scientist seeks to identify untapped patterns and insights. 
 The route forward, where data not only supports decisions but also influences the core structure of our strategic planning, is illuminated by the foundational work that has to be done. By doing this, we hope to significantly improve Spotify's strategies securing our position as the industry leader and our capacity to adjust to the changing preferences of our users.
