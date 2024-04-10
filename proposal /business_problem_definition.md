@@ -79,6 +79,14 @@ Contingencies
 | **94,563**  | **Total Cost**            | | **235,000** | **Total Benefit**                        |
 | **140,437** | **Net Benefit**           | |             |                                          |
 
+### Cost Breakdown for each roles
+| Cost Item                 | Hourly Wage     | Hours | Total Cost   |
+|---------------------------|-----------------|-------|--------------|
+| Associate Data Scientist  | $84.62          | 240   | $20,308.80   |
+| Data Engineer             | $77.40          | 240   | $18,576.00   |
+| Data Analyst              | $35.00          | 240   | $8,400.00    |
+| Project Manager           | $78.36          | 240   | $18,808.00   |
+
 # Determine Data Mining Goals
 ## Enabling Activities
 * F09. Improved data methods and processes
