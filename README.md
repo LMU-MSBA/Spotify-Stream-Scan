@@ -50,4 +50,5 @@ Dashboard development (Tableau)
 **Industrialize**: In this phase, we industrialize predictive modeling techniques to forecast the potential success of the new artist based on current trends. Deliverables include predictive models predicting artist success metrics.
 
 **Realize**: We realize our goals by conducting prescriptive analytics to determine the features critical for signing the new artist. Deliverables include prescriptive reports recommending actions based on predictive modeling insights.
+
 **Differentiate**: Finally, we differentiate by leveraging advanced analytics techniques to gain a competitive edge in identifying and signing promising new artists. Deliverables include advanced predictive models and innovative strategies for artist acquisition and promotion.
