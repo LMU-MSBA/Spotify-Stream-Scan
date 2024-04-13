@@ -30,9 +30,9 @@ The route forward, where data not only supports decisions but also influences th
 
 | Name         | Job Title     |
 |--------------|---------------|
-| Andrew Xu   | Data Analyst |
-| Shaye O'Beirne  | Data Engineer |
-| Ella Foster | Data Scientist |
+| Andrew Xu   | Associate Data Analyst |
+| Shaye O'Beirne  | Associate Data Engineer |
+| Ella Foster | Associate Data Scientist |
 | Clarin Sunarjo    | Project Manager   |
 
 ### Data
@@ -72,8 +72,8 @@ Contingencies
 | Cost ($)    | Cost Item                 | | Benefit ($) | Benefit Item                             |
 |-------------|---------------------------|-|-------------|------------------------------------------|
 | 20,309      | Associate Data Scientist  | | 100,000     | Increase Revenue from Customer Acquisition |
-| 18,576      | Data Engineer             | | 15,000      | Compliance Cost                           |
-| 11,870      | Data Analyst              | | 40,000      | Increase use of dashboards               |
+| 18,576      | Associate Data Engineer             | | 15,000      | Compliance Cost                           |
+| 11,870      | Associate Data Analyst              | | 40,000      | Increase use of dashboards               |
 | 18,808      | Project Manager           | | 30,000      | Brand Image enhancement                  |
 | 10,000      | Data Collection           | | 50,000      | Streaming Revenue                        |
 | 15,000      | Other Expenses            | |             |                                          |
