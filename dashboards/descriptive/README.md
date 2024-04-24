@@ -32,6 +32,6 @@ The Spotify Discovery Dashboard consists of five main visualizations:
 - **Average Followers by Genre**: This bar plot displays the average number of followers, grouped by genre.
 - **Distribution of Popularity by Genre**: This series of boxplots displays the distribution of Follower counts for artists, grouped by genre. This allows the user to easily identify outliers of follower counts among genres.
 
-## How to Refesh the Data
+## How to Refresh the Data
 
-We are in the process of connecting the Spotify Discovery Dashboard to our ETL pipeline, which will allow the user to referesh the dashbaord and view current up-to-date data in real-time.
+We are in the process of connecting the Spotify Discovery Dashboard to our ETL pipeline, which will allow the user to refresh the dashboard and view current, up-to-date data in real time.
