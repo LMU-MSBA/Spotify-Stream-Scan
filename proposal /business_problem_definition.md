@@ -1,7 +1,7 @@
 # Determine Business Objectives
 ## Background
-“As a major player in the music streaming market, Spotify uses advanced data analytics to predict music trends in an effort to improve its platform. This is essential to the strategic choices made for the distribution and curation of an expanding collection of artists and musics. 
-The Associate Data Scientist is important in this situation because they provide practical insights that guide product development and spur audience growth. In order to maintain Spotify's position as the premier resource for finding and listening to music and artists catered to a wide range of listener tastes, the project at hand is especially focused on assessing the potential of up-and-coming artists and comprehending the subtleties of genre-specific trends."
+As a major player in the music streaming market, Spotify uses advanced data analytics to predict music trends in an effort to improve its platform. This is essential to the strategic choices made for the distribution and curation of an expanding collection of artists and musics. 
+The Associate Data Scientist is important in this situation because they provide practical insights that guide product development and spur audience growth. In order to maintain Spotify's position as the premier resource for finding and listening to music and artists catered to a wide range of listener tastes, the project at hand is especially focused on assessing the potential of up-and-coming artists and comprehending the subtleties of genre-specific trends.
 
 ## Business Activity Category
 * Increased Revenue
