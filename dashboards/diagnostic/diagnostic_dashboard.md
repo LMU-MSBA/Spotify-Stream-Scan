@@ -1,9 +1,11 @@
 # Spotify Talent Insights Dashboard
 ## Purpose
-The purpose of this dashboard is to aid talent managers during the artist acquisition phase by providing insights into artist popularity and genre trends. It's designed to streamline the decision-making process
+The purpose of this dashboard is to aid talent managers during the artist acquisition phase by providing insights into artist popularity and genre trends. It's designed to streamline the decision-making process. This will help with potential collaboration, signing and promotion, As for our audience, it would be talent managers, A&L deoartment, music producers, and even marketing team. This dashboard also serves as strategic tool to identify artist that is popular vs not and understanding the market trends in general and also musical characteristics. This dashboardds is intergrated to talent scouting process where data-driven decisions are paramount and the decision that is affected by the dashboard would be signing new artist with high potential
 
 ## Access
-To explore the dashboard, __
+To explore the dashboard, 
+
+https://github.com/LMU-MSBA/Spotify-Stream-Scan/blob/main/dashboards/diagnostic/diagnostic_dashboard.twbx
 
 ## Data Sources
 After automating the ETL (Extract, Transform, Load) processes, we consolidate our data into an AWS data warehouse. This integrated data is then connected to Tableau for visualization and analysis, which includes up-to-date Artist Information, Genres, and Album Information.
